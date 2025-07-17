@@ -4,10 +4,13 @@ User can add book details, save  and display using JDBC CRUD feature
 Ensured robust data handling and integrated exception mechanisms to enhance reliability.
 
 ## Features
--Add Book => completed
--Delete Book => completed
--Update Book details => completed
--Show all Book details in a table with basic searching => completed
+Add Book => completed
+
+Delete Book => completed
+
+Update Book details => completed
+
+Show all Book details in a table with basic searching => completed
 
 -sort Book based on Price => complete
 
